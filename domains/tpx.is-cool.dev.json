@@ -15,7 +15,7 @@
         "CNAME": "example.com",
         "MX": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com","freedns3.registrar-servers.com","freedns4.registrar-servers.com","freedns5.registrar-servers.com"],
         "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com","freedns3.registrar-servers.com","freedns4.registrar-servers.com","freedns5.registrar-servers.com"],
-        "TXT": ["example_verification=1234567890"]
+        "TXT": ["h0f4e68775cc64c9288dac8727b3525e7"]
     },
 
     "proxied": false
