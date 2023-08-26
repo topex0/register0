@@ -1,1 +1,22 @@
+{
+    "description": "Project Description",
 
+    "domain": "is-not-a.dev",
+    "subdomain": "tpx",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "hello@example.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "example.com",
+        "MX": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com","freedns3.registrar-servers.com","freedns4.registrar-servers.com","freedns5.registrar-servers.com"],
+        "NS": ["freedns1.registrar-servers.com", "freedns2.registrar-servers.com","freedns3.registrar-servers.com","freedns4.registrar-servers.com","freedns5.registrar-servers.com"],
+        "TXT": ["example_verification=1234567890"]
+    },
+
+    "proxied": false
+}
